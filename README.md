@@ -7,7 +7,7 @@
 
 🔍 About Me
 I’m an entry-level Data & Research Analyst focused on turning raw data into clear, actionable insights.
-I have hands-on experience working with real datasets—cleaning data, performing exploratory analysis, building dashboards, and communicating findings in a structured, research-driven way.
+I have hands-on experience working with real datasets, cleaning data, performing exploratory analysis, building dashboards, and communicating findings in a structured, research driven way.
 My background in computer engineering gives me strong analytical thinking, while my creative work helps me tell compelling stories with data.
 
 🧠 Core Skills
