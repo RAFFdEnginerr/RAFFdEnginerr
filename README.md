@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @RAFFdEnginerr
-- 👀 I’m interested in ... cyberphysical systems 
-- 🌱 I’m currently learning ... app dev
-- 💞️ I’m looking to collaborate on ...home automation 
-- 📫 How to reach me ... chukxz555@gmail.com
+- 👀 I’m interested in ... data research & analytics 
+- 🌱 I’m currently learning ... power Bi
+- 💞️ I’m looking to collaborate on ...data anytics 
+- 📫 How to reach me ... bigraph.wav@gmail.com 
 - 😄 Pronouns: ...He
 - ⚡ Fun fact: ... I'm single..
 
