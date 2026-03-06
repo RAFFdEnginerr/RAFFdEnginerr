@@ -2,7 +2,7 @@
 
 📊 Entry-Level Data / Research Analyst
 🎓 Computer Engineering Graduate
-🐍 Python • 📈 Excel • 🧮 SQL • 📊 Statistics
+🐍 Python • 📈 Excel • 🧮 SQL • ⚙ ETL/ELT • 📊 Statistics
 🌍 Open to remote & international opportunities
 
 🔍 About Me
@@ -32,6 +32,9 @@ Git & GitHub
 SQL Sever Management Studio (SSMS)
 VS Code
 Jet brains
+Azure
+Airflow
+Docker
 
 📂 Featured Projects
 📊 Excel Analytics
@@ -59,10 +62,10 @@ Improving documentation & storytelling
 
 💼 LinkedIn: https://www.linkedin.com/in/raphael-chukwuma-5a4a3b249
 
-📧 Email: bigraph.wav@gmail.com 
+📧 Email: raphchukwuma07@gmail.com 
 
 🔎 Actively seeking:
-Entry-Level Data Analyst roles
+Data Analyst roles
 Research Analyst roles
 
 Internships & remote opportunities
